@@ -1,4 +1,4 @@
-# Music Clustering & Genre Classification
+### Music Clustering & Genre Classification
 
 A machine learning project that uses the K-Means clustering algorithm to group songs based on their acoustic features and classify them into distinct genres. This repository includes the complete source code and a presentation detailing the project's methodology, visualizations, and findings.
 
